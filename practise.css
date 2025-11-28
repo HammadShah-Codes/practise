@@ -1,14 +1,20 @@
 *{
     margin: 0;
-padding: 0;
-background-color: #f1f7ed;
+    padding: 0;
 }
-h1{
-color:#243e36;
-text-align: center;
-
+#box1{
+    margin: 10px 20px;
+    padding: 100px 100px;
 }
-.para{
-    color: #7ca982;
-    text-align: center;
+#box2{
+      margin: 10px 20px;
+    padding: 100px 100px;
+}
+#box3{
+      margin: 10px 20px;
+    padding: 100px 100px;
+}
+#box4{
+      margin: 10px 20px;
+    padding: 100px 100px;
 }
